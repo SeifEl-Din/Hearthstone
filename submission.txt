@@ -1,0 +1,15 @@
+After you run the "FirstView" class and press start game,a window will pop up asking you to choose both heroes by clicking the buttons visible.
+
+He must press a button from the buttons appearing in the south area "his hand" then press on "play minion" button
+
+He must press on the button that has the name of the spell that he wants to cast then press "Cast Spell" button.If the spell has two types (hero target , minion target) , a pop up message will be displayed to ask the player whether he want to cast it as a hero target or minion target then press "ok" button.
+
+the hero must select a minion from his field first by pressing on its button then select a target to attack from the other hero's field by clicking on it too,then press on "Attack minion" button
+
+Press on "End turn" button.
+
+The cards in hand of the current player are represented as buttons in the south part.
+Player1 field is represented on the left side.
+Player2 field is represented in the center.
+All buttons used to play the game are always visible on the right side.
+
